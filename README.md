@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### I'm from Brazil 🇧🇷  
 
 - 🧠 I Back-End Develop. 
-- 🎯 Focused on bakc-end development, information security
+- 🎯 Focused on back-end development, information security
 - 💻 Student from the University of Brasilia (UnB)
 - 🚀 Currently sudying back-end in NodeJS and C#
 - 🌎 My dream is has peace of soul
