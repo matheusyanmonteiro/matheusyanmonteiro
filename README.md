@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ### I'm from Brazil 🇧🇷  
 
-- 🧠 I really like to learn
+- 🧠 I Back-End Develop. 
 - 🎯 Focused on web development, information security
 - 💻 Student from the University of Brasilia (UnB)
-- 🚀 Currently sudying back-end in NodeJS, C# and mobile development in React Native
+- 🚀 Currently sudying back-end in NodeJS and C#
 - 🌎 My dream is has peace of soul
 - 🎬 I like movies
 - 🎮 I also like videogames
