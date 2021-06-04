@@ -43,5 +43,6 @@ Here are some ideas to get you started:
 
 <div align='center'>
   <img align="center" src="gifs_home/tron.gif" alt="tron" width=500px />
+  <br>
   Work it, Make it, Do it, Makes us 🖥💾
 </div>
