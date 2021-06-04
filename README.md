@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 - 🎮 Half Life 2 always
 
 <div align='center'>
-  
+  <img align="center" src="gifs_home/tron.gif" alt="tron" width=300px />
 </div>
