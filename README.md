@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 - 🧠 I Back-End Develop. 
 - 🎯 Focused on back-end development, information security
 - 💻 Student from the University of Brasilia (UnB)
-- 🚀 Currently sudying back-end in NodeJS and C#
-- 🌎 My dream is has peace of soul
+- 🚀 Currently sudying back-end in NodeJS and C#, .net
+- 🌎 I want to climb everest
 - 🎬 I like movies
-- 🎮 I also like videogames
+- 🎮 Half Life 2 always
+
+<div align='center'>
+  <img src='https://i.gifer.com/DmiA.gif'/>
+</div>
