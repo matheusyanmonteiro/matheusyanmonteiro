@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 - 🌎 I want to climb everest
 - 🎬 I like movies
 - 🎮 Half Life 2 always
+<br><br>
 
 <div align='center'>
-  <img align="center" src="gifs_home/tron.gif" alt="tron" width=300px />
+  <img align="center" src="gifs_home/tron.gif" alt="tron" width=500px />
+  Work it, Make it, Do it, Makes us 🖥💾
 </div>
