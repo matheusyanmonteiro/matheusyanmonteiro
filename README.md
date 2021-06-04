@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 - 🎮 Half Life 2 always
 
 <div align='center'>
-  <img src='https://i.gifer.com/DmiA.gif'/>
+  
 </div>
