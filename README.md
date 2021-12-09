@@ -46,3 +46,5 @@ Here are some ideas to get you started:
   <br>
   Work it, Make it, Do it, Makes us 🖥💾
 </div>
+
+![Snake animation](https://github.com/julianavalle/julianavalle/blob/output/github-contribution-grid-snake.svg)
