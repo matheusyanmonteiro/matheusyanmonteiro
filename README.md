@@ -22,12 +22,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-matheusyanmonteiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusyanmonteiro@gmail.com)](mailto:matheusyanmonteiro@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Matheusyanmonteiro-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Matheusyanmonteiro)](https://t.me/Matheusyanmonteiro)
 
-<a href="https://github.com/matheusyanmonteiro/github-readme-statst">
-  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=matheusyanmonteiro&show_icons=true&theme=dracula" />
-</a>
-
-<a href="https://github.com/matheusyanmonteiro/github-readme-stats">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusyanmonteiro&hide=jupyter%20notebook,html&layout=compact&theme=light" />
 </a><br><br><br><br><br><br><br>
 
 ### I'm from Brazil 🇧🇷  
