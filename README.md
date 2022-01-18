@@ -22,7 +22,27 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-matheusyanmonteiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusyanmonteiro@gmail.com)](mailto:matheusyanmonteiro@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Matheusyanmonteiro-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Matheusyanmonteiro)](https://t.me/Matheusyanmonteiro)
 
-</a><br><br><br><br><br><br><br>
+<div align="center">
+  <a href="https://github.com/matheusyanmonteiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusyanmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusyanmonteiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="math-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="math-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="math-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+ 
+  <a><br>
+  <div align="center">
+    <img align="center" alt="math-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/59/d7/81/59d781e502db0d8b7cef986d57424421.jpg?width=1000&height=1000">
+  </div>
+      <a><br><br><br><br>
 
 ### I'm from Brazil 🇧🇷  
 
