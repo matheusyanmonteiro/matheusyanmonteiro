@@ -46,12 +46,12 @@ Here are some ideas to get you started:
 
 ### I'm from Brazil 🇧🇷  
 
-- 🧠 I Back-End Develop. 
-- 🎯 Focused on back-end development, information security
-- 💻 Student from the University of Brasilia (UnB)
-- 🚀 Currently sudying back-end in NodeJS and C#, .net
+- 🧠 I am a Back-End Develop. 
+- 🎯 Focused on back-end development and information security
+- 💻 Student at the University of Brasilia (UnB)
+- 🚀 Currently studying back-end in NodeJS, C# and .net
 - 🌎 I want to climb everest
-- 🎬 I like movies
+- 🎬 I like movies western
 - 🎮 Half Life 2 always
 <br><br>
 
