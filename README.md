@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusyanmonte76iro-b5788a208/)](https://www.linkedin.com/in/matheusyanmonte76iro-b5788a208/)
 [![Gmail Badge](https://img.shields.io/badge/-matheusyanmonteiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusyanmonteiro@gmail.com)](mailto:matheusyanmonteiro@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Matheusyanmonteiro-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Matheusyanmonteiro)](https://t.me/Matheusyanmonteiro)
 
 <div align="center">
   <a href="https://github.com/matheusyanmonteiro">
