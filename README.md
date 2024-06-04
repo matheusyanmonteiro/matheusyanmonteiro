@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 - 🧠 I am a Back-End Develop. 
 - 🎯 Focused on back-end development and information security
-- 💻 Student at the University of Brasilia (UnB)
-- 🚀 Currently studying back-end in NodeJS.
+- 💻 University of Brasilia (UnB)
+- 🚀 Back-end in NodeJS.
 - 🌎 I want to climb everest
 - 🎬 I like movies western
 - 🎮 Half Life 2 always
