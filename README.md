@@ -52,25 +52,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/matheusyanmonteiro">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusyanmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/matheusyanmonteiro">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusyanmonteiro&layout=compact&langs_count=7&theme=dracula" />
-  </a>
+  <img src="https://img.shields.io/github/followers/matheusyanmonteiro?style=for-the-badge&logo=github&labelColor=282a36&color=bd93f9" />
+  <img src="https://img.shields.io/github/stars/matheusyanmonteiro?style=for-the-badge&logo=github&labelColor=282a36&color=bd93f9" />
+  <img src="https://img.shields.io/github/last-commit/matheusyanmonteiro/matheusyanmonteiro?style=for-the-badge&logo=github&labelColor=282a36&color=bd93f9" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusyanmonteiro&theme=dracula" />
 </div>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheusyanmonteiro&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
-</p>
 
 ---
 
@@ -85,5 +74,5 @@
 <p align="center">
   <img src="gifs_home/tron.gif" width="500px" />
   <br>
-  <sub><i>"Work it harder, make it better, do it faster, makes us stronger"</i> 🖥💾</sub>
+  <sub><i>"Work it harder, make it better, do it faster, makes us stronger"</i>💾</sub>
 </p>
